@@ -1,6 +1,6 @@
 # weathery
 
-A new Flutter project.
+Weathery is a cross-platform mobile application designed to provide users with real-time weather updates. The app fetches weather data from an external API and displays it in a user-friendly interface, allowing users to search for weather information by location.
 
 ## Getting Started
 
